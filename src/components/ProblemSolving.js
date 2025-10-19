@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Brain, Target, Zap, Code, Database, Cpu } from 'lucide-react';
+import { Brain, Zap, Code, Database, Cpu } from 'lucide-react';
 
 const ProblemSolving = () => {
   const skills = [
