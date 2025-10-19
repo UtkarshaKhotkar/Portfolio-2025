@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Award, Code2, Trophy, Users, Briefcase, BookOpen } from 'lucide-react';
+import { Award, Code2, Trophy, Users, BookOpen } from 'lucide-react';
 
 const Achievements = () => {
   const achievements = [
